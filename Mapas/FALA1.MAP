@@ -1,0 +1,346 @@
+-1  1  1  9  3  1  1  0  0  0  0  0  0
+"Vocà abriu a primeiragaveta  do  arm†rio eachou comida!        "
+ 1  1  0
+"               ","               "
+ 0  0  0
+"          "
+ 0  0  0  0  0  0  0  0  1  0  0
+
+ -1  1  1  9  3  1  1  1  0  0  0  0  0
+"Vocà abriu a segunda gaveta  do  arm†rio eachou mais comida!   "
+ 1  1  0
+"               ","               "
+ 0  0  0
+"          "
+ 0  0  0  0  0  0  0  0  2  0  0
+
+-1  1  1  9  3  1  1  2  0  0  0  0  0
+"Vocà abriu a terceiragaveta e foi picado  por uma aranha.      "
+ 0  0  0
+"               ","               "
+ 0  10  0
+"Envenenado"
+ 5 -5  0  0  0  0  9  4  3  0  0
+-1  1  1  11  3  1  2  0  0  0  0  0  0
+"Voce abriu a geladerae achou uma bebida.                       "
+ 1  5  0
+"               ","               "
+ 0  0  0
+"          "
+ 0  0  0  0  0  0  0  0  1  0  0
+-1  1  1  13  5  1  4  0  0  0  0  0  0
+"Vocà achou comida.                                             "
+ 1  1  0
+"               ","               "
+ 0  0  0
+"          "
+ 0  0  0  0  0  0  0  0  1  0  0
+-1  1  1  4  6  3  0  0  0  0  0  0  0
+"                                                               "
+ 0  0  0
+"               ","               "
+ 0  0  0
+"          "
+ 0  0  0  2  0  0  4  2  0  0  0
+
+ 3  1  2  4  2  1  0  0  0  0  0  0  0
+ 0  0  1  4  6  0  0  0
+ 2  1  2  5  3  1  5  0  0  0  0  0  0
+"X-Salada       "
+ 1  2  1  0  0
+ 3  1  2  8  3  2  0  0  0  0  0  0  0
+ 0  0  3  3  5  0  0  0
+ 3  1  3  3  5  4  0  0  0  0  0  0  0
+ 0  0  2  8  3  0  0  0
+ 2  1  3  6  4  4  6  0  0  0  0  0  0
+"Telefone       "
+ 4  1  1  0  0
+ 3  1  3  4  6  3  0  0  0  0  0  0  0
+ 0  0  4  5  1  0  0  0
+ 3  1  4  5  1  1  0  0  0  0  0  0  0
+ 0  0  3  4  6  0  0  0
+ 3  1  1  16  6  3  0  0  0  0  0  0  0
+ 0  0  3  4  5  0  0  0
+ 3  1  3  4  5  1  0  0  0  0  0  0  0
+ 0  0  1  16  6  0  0  0
+ 2  1  4  13  3  1  7  0  0  0  0  0  0
+"Soro antiaranha"
+ 4  5  1  0  0
+ 3  1  2  4  6  3  0  0  0  0  0  0  0
+ 0  0  5  4  2  0  0  0
+ 3  1  5  4  2  1  0  0  0  0  0  0  0
+ 0  0  2  4  6  0  0  0
+-1  1  5  4  5  1  8  0  0  0  0  0  1
+"Vocà achou R$5!                                                "
+ 0  0  0
+"               ","               "
+ 0  0  5
+"          "
+ 0  0  0  0  0  0  0  0  1  0  0
+
+ 2  1  5  4  5  1  8  1  0  0  0  0  0
+"Estilete       "
+ 2  3  2  0  0
+ 4  1  5  11  3  1  9  0  0  0  0  0  0
+"Vocà ligou o computa-dor!                                      "
+ 1  0  0
+ 4  1  5  11  3  1  9  1  0  0  0  0  0
+"O Windows est† sendo iniciado...                               "
+ 2  0  0
+ 4  1  5  11  3  1  9  2  10  0  0  0  0
+"O Windows ainda est† sendo iniciado!...                        "
+ 2  0  0
+
+ 5  1  4  11  3  1  6  1  0  0  0  0  1
+"CÇlia               "
+"Obrigada! Aqui est† achave. Agora vc pode ir para o conjunto.  "
+ 2  0  0  4  -1
+ 5  1  4  11  3  1  6  0  0  0  0  0  1
+"CÇlia               "
+"Onde est† o telefone?                                          "
+ 0  0  0  0  0
+ 5  1  4  11  3  1  6  2  0  0  0  0  0
+"CÇlia               "
+"Oi!                                                            "
+ 2  0  0  0  0
+ 4  1  6  6  4  1  0  0  0  0  0  0  0
+"Roupas!Muitas roupas!                                          "
+ 0  0  0
+ 5  1  6  8  3  1  0  0  0  0  0  0 -4
+"Juliana             "
+"SAI DO MEU QUARTO!                                             "
+ 0  0  0  0  0
+ 3  1  4  5  2  3  0  0  0  0  0  0  0
+ 0  0  6  13  4  0  0  0
+ 3  1  6  13  4  1  0  0  0  0  0  0  0
+ 0  0  4  5  2  0  0  0
+ 3  1  2  5  5  2  6  2  0  0  0  0  0
+ 0  0  7  4  2  2  0  0
+ 3  1  7  4  2  4  0  0  0  0  0  0  0
+ 0  0  2  5  5  0  0  0
+ 4  1  7  9  5  1  0  0  0  0  0  0  0
+"Muitas ferramentas!                                            "
+ 0  0  0
+ 1  2  1  6  2  4  0  0  0  0  0  0  0
+"Que tal uma arma?    "
+"Rev¢lver       "
+ 2  13  6
+"9mm            "
+ 2  13  6
+"Fac∆o          "
+ 2  4  2
+"----           "
+ 0  0  0  0  0  0
+ 3  1  7  14  6  3  0  0  0  0  0  0  0
+ 0  2  1  10  2  0  0  0
+
+ 3  2  1  10  2  1  0  0  0  0  0  0  0
+ 0  1  7  14  6  0  0  0
+ 3  2  1  13  2  2  0  0  0  0  0  0  0
+ 0  3  1  4  2  0  0  0
+ 3  3  1  4  2  4  0  0  0  0  0  0  0
+ 0  2  1  13  2  0  0  0
+ 3  2  1  0  6  3  0  0  0  0  0  0  0
+ 0  0  2  9  1  0  0  0
+ 3  2  2  0  1  1  0  0  0  0  0  0  0
+ 0  0  1  9  6  0  0  0
+ 3  3  2  5  2  1  0  0  0  0  0  0  0
+ 0  0  1  10  4  0  0  0
+ 3  3  1  10  4  3  0  0  0  0  0  0  0
+ 0  0  2  5  2  0  0  0
+ 5  3  1  14  2  2  0  0  0  0  0  0  0
+"Laika               "
+"Au!Au!                                                         "
+ 0  0  0  0  0
+ 5  3  2  12  2  1  10  0  0  0  0  0 -4
+"Thayse              "
+"J† saio.                                                       "
+ 0  0  0  0  0
+ 4  1  2  5  5  2  6  0  0  0  0  0  1
+"A porta est† trancada                                          "
+ 0  0  0
+ 4  1  2  5  5  2  6  1  0  0  0  0  1
+"A porta est† trancada                                          "
+ 1  0  0
+
+ 3  3  2  13  5  2  0  0  0  0  0  0  0
+ 0  0  3  5  2  0  0  0
+ 3  3  3  5  2  4  0  0  0  0  0  0  0
+ 0  0  2  13  5  0  0  0
+
+ 6  2  1  6  6  4  0  0  0  0  0  0  0
+"Robì                "
+"Bzzzzzzt!                                                      "
+ 0  0  0
+ 1  5  0  0  20
+4
+ 3  3  7  5  1  11  0  0  0  0  0  1
+"Oi Rodrigo! Te ensi- no um golpe se vocà  achar o meu livro.   "
+ 0  0  0
+ 4
+ 3  3  11  3  1  10  0  0  0  0  0  0
+"...O Fellipe s¢ pode ser derrotado com unschoques em sua cabeáa"
+ 0  0  0
+ 6  3  2  5  6  3  11  0  0  0  0  0  1
+"Robì                "
+"Bzzzzzt!                                                       "
+ 1  0  0
+ 1  7  4  2  20
+-1  3  3  7  5  1  11  2  0  0  0  0  1
+"Opa! Estou te devendo um golpe, nÇ?                            "
+ 0  0  0
+"Choque         ","               "
+ 0  0  0
+"          "
+ 0  0  0  0  0  0  0  0  3  0  0
+
+ 5  1  4  11  3  1  6  0  0  0  0  0 -1
+"Tia CÇlia           "
+"Oi!                                                            "
+ 0  0  0  0  0
+ 5  1  4  11  3  1  6  1  0  0  0  0 -1
+"Tia CÇlia           "
+"Oi!                                                            "
+ 1  0  0  0  0
+ 3  1  2  5  5  2  0  0  0  0  0  0 -1
+ 0  0  7  4  2  0  0  0
+ 2  2  1  13  4  2  12  0  0  0  0  0  0
+"Uma arma       "
+ 2  2  1  0  0
+ 3  3  2  5  6  3  11  1  0  0  0  0  1
+ 0  0  4  5  3  1  0  0
+ 3  3  2  5  6  3  11  2  0  0  0  0  1
+ 0  0  4  5  3  2  0  0
+ 3  3  2  5  6  3  0  0  0  0  0  0 -1
+ 0  0  4  5  3  0  0  0
+ 6  2  2  13  4  2  11  2  0  0  0  0  1
+"Robì                "
+"Bzzzzzt!                                                       "
+ 2  0  0
+ 1  12  0  0  20
+ 2  3  4  5  6  1  14  0  0  0  0  0  0
+"Misto Quente   "
+ 1  1  1  0  0
+ 2  3  4  10  4  1  13  0  0  0  0  0  -1
+"Coka-Colla     "
+ 1  7  1  0  0
+ 3  3  4  5  3  1  0  0  0  0  0  0  0
+ 0  0  2  5  6  0  0  0
+ 6  2  1  13  6  2  0  0  0  0  0  0  0
+"Roboz∆o             "
+"Bzzzzzzzzzzzt!                                                 "
+ 0  0  0
+ 1  10  0  0  20
+ 5  3  3  7  5  1  0  0  0  0  0  0  4
+"Mayron estressado   "
+"VAZE DAQUI SUA GORDA!                                          "
+ 0  0  0  0  0
+ 2  2  2  6  2  4  15  0  0  0  0  0  0
+"Sandu°che      "
+ 1  3  1  0  0
+ 5  2  2  6  6  4  0  0  0  0  0  0  0
+"Pitucha             "
+"auauauauauauauauau...                                          "
+ 0  0  0  0   0
+ 2  2  2  13  2  2  16  0  0  0  0  0  0
+"Galho          "
+ 2  1  1  0  0
+ 2  2  2  13  2  2  16  1  0  0  0  0  0
+"Outro galho    "
+ 2  1  2  0  0
+ 3  2  2  6  4  4  0  0  0  0  0  0  0
+ 0  4  1  10  5  0  0  0
+ 3  4  1  10  0  2  0  0  0  0  0  0  0
+ 0  2  2  6  4  0  0  0
+ 6  2  2  0  6  3  10  0  0  0  0  0  0
+"Fellipe             "
+"Agora vocà vai morrer                                          "
+ 1  0  0
+ 2  15  1  4   0
+ 5  4  1  8  4  1  17  0  10  0  0  0  4
+"Jimmi               "
+"VOC“ vai enfrentar o Fellipe? Huahuhauhau!                     "
+ 0  0  0  0  0
+ 5  4  1  8  4  1  17  0  10  0  0  0 -4
+"Jimmi               "
+"Vocà vai enfrentar o Fellipe? Pegue isso  ent∆o. Ser† £til.    "
+ 1  0  0  2  6
+ 2  2  2  13  6  2  18  0  0  0  0  0  1
+"X-Burguer      "
+ 1  3  1  0  0
+ 2  2  2  13  4  2  18  0  0  0  0  0 -1
+"X-Burguer      "
+ 1  3  1  0  0
+ 5  3  3  7  5  1  11  1  0  0  0  0  1
+"Mayron              "
+"VALEU! N∆o sei como  vocà fez pra achar!                       "
+ 2  0  0  4  -2
+ 5  3  3  7  5  1  11  3  0  0  0  0  1
+"Mayron              "
+"E a°?                                                          "
+ 3  0  0  0  0
+ 5  4  1  8  4  1  17  1  10  0  0  0 -4
+"Jimmi               "
+"Boa sorte!                                                     "
+ 1  0  0  0  0
+-1  4  1  8  4  1  17  1  10  1  0  0  0
+"Que bom que vocà der-rotou o Fellipe. Quer aprender um golpe?  "
+ 0  0  0
+"Arroto         ","               "
+ 0  0  0
+"          "
+ 0  0  0  0  0  0  0  0  2  1  0
+ 4
+ 2  2  0  6  3  10  1  0  0  0  0  0
+"O port∆o est† tranca-do!                                       "
+ 1  0  0
+ 5  1  6  8  3  1  0  0  0  0  0  0  4
+"Juliana             "
+"Oi Thayse!                                                     "
+ 0  0  0  0    0
+ 4
+ 1  5  10  3  2  0  0  0  0  0  0  -1
+"...                                                            "
+ 0  0  0
+ 5  4  1  8  4  1  17  2  0  0  0  0  0
+"Jimmi               "
+"BURP! Desculpa...                                              "
+ 2  0  0  0    0
+ 5  4  1  8  4  1  10  1  0  0  0  0  4
+"Jimmi               "
+"E n∆o Ç que vocà der-rotou mesmo?                              "
+ 2  0  0  0    0
+ 5  4  1  8  4  1  10  2  0  0  0  0  4
+"Jimmi               "
+"ARROT! Foi mal.                                                "
+ 2  0  0  0    0
+ 4
+ 3  3  11  3  1  10  1  0  0  0  0 -1
+"O port∆o foi aberto  pelo computador.                          "
+ 2  0  0
+ 4
+ 1  5  11  3  1  10  3  0  0  0  0  1
+"O port∆o foi aberto  pelo computador.                          "
+ 2  0  0
+ 3  3  2  5  6  3  11  3  0  0  0  0  1
+ 0  0  4  5  3  3  0  0
+ 3  2  2  0  6  3  10  2  0  0  0  0  0
+ 2  1  1  10  2  0  0  0
+ 4
+ 1  1  7  2  1  20  0  0  0  0  0  0
+"Duas pessoas est∆o   andando de bicicleta.                     "
+ 1  0  0
+ 4
+ 1  1  7  2  1  20  1  0  0  0  0  0
+"Um idiota caiu!                                                "
+ 2  0  0
+ 4
+ 1  1  13  2  1  20  1  0  0  0  0  0
+"Um idiota caiu!                                                "
+ 2  0  0
+
+ 4
+ 1  5  11  3  1  10  1  0  0  0  0  1
+"O WINDOWS INICIOU!   AAAAALEEELUUIA!                           "
+ 3  0  0
+
