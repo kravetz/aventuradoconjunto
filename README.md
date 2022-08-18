@@ -3,7 +3,7 @@ Jogo RPG desenvolvido em Q-BASIC em 1998/1999
 
 O jogo foi desenvolvido em um 386DX-20MHz, sem bibliotecas de terceiros, quando eu tinha aproximadamente 13 anos.
 
-![Screenshot](/GITHUB/jogoexecutando.png)
+![Screenshot](https://raw.githubusercontent.com/kravetz/aventuradoconjunto/main/GITHUB/jogoExecutando.png)
 
 Para funcionar, a seguinte estrutura de pastas deve ser obrigatoriamente seguida:
 
